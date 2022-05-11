@@ -4,7 +4,7 @@ This application will assist farmers in increasing agricultural productivity, pr
 
 
 # Dataset
-1. The dataset was This dataset was generateed by augmenting datasets of rainfall, climate and fertilizer data available for India.
+1. The dataset was generateed by augmenting datasets of climate,rainfall and fertilizer data available for India.
 
 
 
