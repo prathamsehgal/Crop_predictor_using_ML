@@ -22,7 +22,7 @@ Training Score: 99.5%
 Validation Score: 99.3%
 
 ## Demo of the APP
-https://crop-predict-pratham.herokuapp.com/ 
+https://crop-predictor-pratham11.herokuapp.com/
 
 ## Screenshots 
 ![Screenshot 2022-05-11 130733](https://user-images.githubusercontent.com/65961117/167796432-b067cc7f-ec2a-454a-9831-7daa9f9ec788.png)
