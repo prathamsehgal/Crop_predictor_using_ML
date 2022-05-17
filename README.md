@@ -15,8 +15,6 @@ All columns contain outliers except for N.
 Splitting the dataset by 80 % for training set and 20 % validation set.
 Training and Validation
 GausianNB gets a higher accuracy score than other classification models.
-GaussianNB ( 99 % accuracy score )
-
 #### Performance Results
 Training Score: 99.5%
 Validation Score: 99.3%
